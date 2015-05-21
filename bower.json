@@ -1,0 +1,11 @@
+{
+  "name": "pong-game",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "gsap": "~1.16.1",
+    "easeljs": "~0.8.0",
+    "SoundJS": "~0.6.0",
+    "PreloadJS": "~0.6.0"
+  }
+}
