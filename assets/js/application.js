@@ -16,7 +16,6 @@ $(function() {
   var manifest = [
     { src: 'bg.png',       id: 'bg' },
     { src: 'ball.png',     id: 'ball' },
-    { src: 'credits.png',  id: 'credits' },
     { src: 'creditsB.png', id: 'creditsB' },
     { src: 'lose.png',     id: 'lose' },
     { src: 'main.png',     id: 'main' },
